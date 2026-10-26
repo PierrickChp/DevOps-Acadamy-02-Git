@@ -21,3 +21,5 @@ fi
 touch app.txt
 ./healthcheck.sh
 echo "OK: app.txt correctly detected"
+
+exit 1
